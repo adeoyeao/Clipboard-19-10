@@ -1,0 +1,9 @@
+.brand {
+      width: 139px
+}
+
+@media screen and (min-width: 700px) {
+     .brand {
+           width: 100%;
+     }
+}
